@@ -2,7 +2,7 @@
 
 Dudeness wave in your code :surfer:
 
-![js](./previews/js-preview.png)
+![js](https://raw.githubusercontent.com/aenehc/dudeness-syntax/master/previews/js-preview.png)
 
 
 :rocket::rocket::rocket:
