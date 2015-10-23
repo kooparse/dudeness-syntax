@@ -1,0 +1,15 @@
+{
+  "name": "dudeness-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "dudeness wave in your code",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/aenehc/dudeness-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
